@@ -61,7 +61,15 @@ $ npm run test:cov
 
 ```
 http://127.0.0.1:3000/apidoc
+
 ```
+
+## Improvements
+
+- Manage cash with a store such as Redis
+- Improve the test coverage (add E2E testing)
+- Fully use the MongoDB Docker implementation for the tests
+- Containerize the api
 
 ## License
 
